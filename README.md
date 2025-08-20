@@ -22,4 +22,4 @@ This project demonstrates:
 
 ---
 
-## 📂 Project Structur# Crime Analytics Pipeline 
+## 📂 Project Structure# Crime Analytics Pipeline 

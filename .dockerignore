@@ -1,0 +1,5 @@
+.git 
+.venv 
+_pycache_/ 
+data/ 
+reports/outputs/ 

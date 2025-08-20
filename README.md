@@ -22,4 +22,33 @@ This project demonstrates:
 
 ---
 
-## 📂 Project Structure# Crime Analytics Pipeline 
+## 📂 Project Structure
+crime-analytics-pipeline/
+
+├─ config/                # YAML configs
+
+├─ data/                  # Raw + processed data (gitignored)
+
+├─ notebooks/             # Jupyter notebooks (EDA, experiments)
+
+├─ src/                   # Pipeline modules (ingest, preprocess, features, ML)
+
+│   └─ viz/               # Visualization helpers
+
+├─ dashboard/             # Streamlit app
+
+├─ automations/           # Cron, Airflow, email reports
+
+├─ reports/               # Templates + generated reports
+
+├─ sql/                   # Optional SQL schema/views
+
+├─ tests/                 # Unit tests (pytest)
+
+├─ .github/workflows/     # CI/CD
+
+├─ Dockerfile             # Containerization
+
+├─ requirements.txt       # Dependencies
+
+└─ README.md              # This file
